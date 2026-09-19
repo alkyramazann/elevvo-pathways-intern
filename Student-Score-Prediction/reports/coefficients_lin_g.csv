@@ -1,0 +1,31 @@
+Feature,Coefficient,Raw_Coefficient,Type,Reference
+Attendance,2.2835,0.197994,numeric (per +1 SD),
+Access_to_Resources_Low,-2.094645,-2.094645,category (vs reference),Access_to_Resources = High
+Parental_Involvement_Low,-2.020998,-2.020998,category (vs reference),Parental_Involvement = High
+Hours_Studied,1.743296,0.292145,numeric (per +1 SD),
+Parental_Involvement_Medium,-1.084033,-1.084033,category (vs reference),Parental_Involvement = High
+Motivation_Level_Low,-1.080023,-1.080023,category (vs reference),Motivation_Level = High
+Teacher_Quality_Low,-1.041809,-1.041809,category (vs reference),Teacher_Quality = High
+Access_to_Resources_Medium,-1.041032,-1.041032,category (vs reference),Access_to_Resources = High
+Family_Income_Low,-1.017585,-1.017585,category (vs reference),Family_Income = High
+Peer_Influence_Positive,0.994766,0.994766,category (vs reference),Peer_Influence = Negative
+Internet_Access_Yes,0.952747,0.952747,category (vs reference),Internet_Access = No
+Learning_Disabilities_Yes,-0.88766,-0.88766,category (vs reference),Learning_Disabilities = No
+Distance_from_Home_Near,0.856035,0.856035,category (vs reference),Distance_from_Home = Far
+Previous_Scores,0.703551,0.048983,numeric (per +1 SD),
+Tutoring_Sessions,0.594685,0.482446,numeric (per +1 SD),
+Teacher_Quality_Unknown,-0.563983,-0.563983,category (vs reference),Teacher_Quality = High
+Motivation_Level_Medium,-0.556958,-0.556958,category (vs reference),Motivation_Level = High
+Extracurricular_Activities_Yes,0.556033,0.556033,category (vs reference),Extracurricular_Activities = No
+Family_Income_Medium,-0.546836,-0.546836,category (vs reference),Family_Income = High
+Parental_Education_Level_High School,-0.54122,-0.54122,category (vs reference),Parental_Education_Level = College
+Teacher_Quality_Medium,-0.537993,-0.537993,category (vs reference),Teacher_Quality = High
+Peer_Influence_Neutral,0.51798,0.51798,category (vs reference),Peer_Influence = Negative
+Parental_Education_Level_Postgraduate,0.466438,0.466438,category (vs reference),Parental_Education_Level = College
+Parental_Education_Level_Unknown,-0.360482,-0.360482,category (vs reference),Parental_Education_Level = College
+Distance_from_Home_Unknown,0.338547,0.338547,category (vs reference),Distance_from_Home = Far
+Distance_from_Home_Moderate,0.305661,0.305661,category (vs reference),Distance_from_Home = Far
+Physical_Activity,0.178443,0.173285,numeric (per +1 SD),
+Gender_Male,-0.01225,-0.01225,category (vs reference),Gender = Female
+Sleep_Hours,-0.011727,-0.007979,numeric (per +1 SD),
+School_Type_Public,0.003494,0.003494,category (vs reference),School_Type = Private

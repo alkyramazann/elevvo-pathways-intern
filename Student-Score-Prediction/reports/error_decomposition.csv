@@ -1,0 +1,10 @@
+Label,Test_rows,Rows_with_error_gt_5,Share_of_rows,Share_of_total_squared_error,RMSE_all_rows,RMSE_without_them,MAE_without_them
+A: Hours Studied,1322,95,0.071861,0.434071,3.15591,2.46433,2.09013
+Poly deg 2: Hours Studied,1322,94,0.071104,0.432446,3.153797,2.465211,2.088701
+Poly deg 3: Hours Studied,1322,95,0.071861,0.435002,3.157678,2.463684,2.08709
+B: Hours Studied + Sleep Hours,1322,91,0.068835,0.426006,3.156592,2.478328,2.103253
+C: Hours Studied + Attendance,1322,11,0.008321,0.444207,2.236697,1.674473,1.329949
+D: Hours Studied + Sleep Hours + Attendance,1322,11,0.008321,0.445026,2.235673,1.672472,1.329067
+E: Hours Studied + Attendance + Previous Scores,1322,8,0.006051,0.480278,2.134579,1.543533,1.238202
+F: All numeric features (6),1322,5,0.003782,0.502576,2.043177,1.443751,1.162451
+G: All numeric + categorical (19),1322,5,0.003782,0.929728,1.520982,0.40396,0.328156

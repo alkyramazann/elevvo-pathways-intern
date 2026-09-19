@@ -1,0 +1,8 @@
+Label,Model,Features,Degree,MAE,MSE,RMSE,R2,Train_R2,CV_RMSE,CV_R2,RMSE_change_vs_baseline_pct,R2_change_vs_baseline
+A: Hours Studied,Linear Regression,Hours Studied,1,2.419018,9.959765,3.15591,0.246854,0.188837,3.523072,0.191713,0.0,0.0
+B: Hours Studied + Sleep Hours,Linear Regression,Hours Studied + Sleep Hours,1,2.421767,9.96407,3.156592,0.246529,0.189437,3.522803,0.191796,0.021612,-0.000326
+C: Hours Studied + Attendance,Linear Regression,Hours Studied + Attendance,1,1.43024,5.002814,2.236697,0.621693,0.527059,2.676662,0.534479,-29.126707,0.374839
+D: Hours Studied + Sleep Hours + Attendance,Linear Regression,Hours Studied + Sleep Hours + Attendance,1,1.429399,4.998234,2.235673,0.622039,0.527156,2.677353,0.534241,-29.159151,0.375185
+E: Hours Studied + Attendance + Previous Scores,Linear Regression,Hours Studied + Attendance + Previous Scores,1,1.329625,4.556426,2.134579,0.655448,0.557219,2.592816,0.563174,-32.362487,0.408594
+F: All numeric features (6),Linear Regression,All numeric features (6),1,1.244171,4.174574,2.043177,0.684324,0.58193,2.520769,0.587138,-35.258685,0.437469
+G: All numeric + categorical (19),Linear Regression,All numeric + categorical (19),1,0.414706,2.313388,1.520982,0.825064,0.711174,2.083447,0.716738,-51.805258,0.57821

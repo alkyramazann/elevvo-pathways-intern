@@ -1,0 +1,7 @@
+Feature,Coefficient,Raw_Coefficient,Type,Reference
+Attendance,2.283427,0.197987,numeric (per +1 SD),
+Hours_Studied,1.723187,0.288775,numeric (per +1 SD),
+Previous_Scores,0.697839,0.048585,numeric (per +1 SD),
+Tutoring_Sessions,0.600124,0.486859,numeric (per +1 SD),
+Physical_Activity,0.131202,0.127409,numeric (per +1 SD),
+Sleep_Hours,-0.025646,-0.017449,numeric (per +1 SD),
